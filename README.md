@@ -10,7 +10,7 @@ This project was part of MIT xPro - Blended Learning AI+X Program, March to June
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./MIT_License) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contributing
 
