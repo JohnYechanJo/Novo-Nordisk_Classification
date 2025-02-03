@@ -2,8 +2,7 @@
 <img src="./MAE for Retina OCT Images.png">
 
 <br>
-<h1>Masked Autoencoders for</h1>
-<h1>Retina Blood Vessel Segmentation</h1>
+<h1>Masked Autoencoders for Retina Blood Vessel Segmentation</h1>
   
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Novo-Nordisk_MIT)](https://github.com/JohnYechanJo/Novo-Nordisk_MIT/commits/main)
