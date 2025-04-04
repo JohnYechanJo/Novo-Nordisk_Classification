@@ -4,12 +4,12 @@
 <br>
 <h1>Masked Autoencoders for Retinal OCT Images Classification</h1>
   
-[![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Novo-Nordisk_MIT)](https://github.com/JohnYechanJo/Novo-Nordisk_MIT/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/JohnYechanJo/Novo-Nordisk_MIT)](https://github.com/JohnYechanJo/Novo-Nordisk_MIT/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Novo-Nordisk_Classification)](https://github.com/JohnYechanJo/Novo-Nordisk_Classification/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/JohnYechanJo/Novo-Nordisk_Classification)](https://github.com/JohnYechanJo/Novo-Nordisk_Classification/issues)
 <br>
 ## Contributors
 
-[![GitHub Contributors](https://img.shields.io/github/contributors-anon/JohnYechanJo/Novo-Nordisk_MIT)](https://github.com/JohnYechanJo/Novo-Nordisk_MIT/graphs/contributors)
+[![GitHub Contributors](https://img.shields.io/github/contributors-anon/JohnYechanJo/Novo-Nordisk_Classification)](https://github.com/JohnYechanJo/Novo-Nordisk_Classification/graphs/contributors)
 
 <table>
   <tr>
